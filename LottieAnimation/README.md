@@ -17,3 +17,8 @@
 ### xcode 종료 후 xcworkspace를 연다.
 ### Pods가 추가됙 ViewController.swift에서 Lottie를 import 할 수 있게 된다.
 <img width="1012" alt="스크린샷 2021-08-09 오전 12 09 21" src="https://user-images.githubusercontent.com/87226868/128636978-6a3751f9-aa64-40b6-bd97-9fa0727f982b.png">
+
+## Lottie Animation 가져오기
+### https://lottiefiles.com
+### 무료 animation으 .json 파일로 다운받는다.
+<img width="640" alt="스크린샷 2021-08-09 오전 12 24 55" src="https://user-images.githubusercontent.com/87226868/128637159-a847b94e-d83d-48e5-808c-d199e06475bb.png">
