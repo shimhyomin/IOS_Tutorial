@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -14,6 +14,7 @@
 		C230B80426C0291A00897793 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C230B80226C0291A00897793 /* Main.storyboard */; };
 		C230B80626C0291A00897793 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C230B80526C0291A00897793 /* Assets.xcassets */; };
 		C230B80926C0291A00897793 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C230B80726C0291A00897793 /* LaunchScreen.storyboard */; };
+		C2FE576626C0349F00990640 /* 71613-sprinkles.json in Resources */ = {isa = PBXBuildFile; fileRef = C2FE576526C0349F00990640 /* 71613-sprinkles.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		C230B80526C0291A00897793 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C230B80826C0291A00897793 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C230B80A26C0291A00897793 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2FE576526C0349F00990640 /* 71613-sprinkles.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "71613-sprinkles.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +58,6 @@
 				7C4111A73D2B9AB42E1873D4 /* Pods-LottieAnimation.debug.xcconfig */,
 				6B5ACAD18A91575ABEA22D5E /* Pods-LottieAnimation.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -81,6 +82,7 @@
 		C230B7FB26C0291A00897793 /* LottieAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				C2FE576526C0349F00990640 /* 71613-sprinkles.json */,
 				C230B81026C0292500897793 /* ViewControllers */,
 				C230B7FC26C0291A00897793 /* AppDelegate.swift */,
 				C230B7FE26C0291A00897793 /* SceneDelegate.swift */,
@@ -161,6 +163,7 @@
 			files = (
 				C230B80926C0291A00897793 /* LaunchScreen.storyboard in Resources */,
 				C230B80626C0291A00897793 /* Assets.xcassets in Resources */,
+				C2FE576626C0349F00990640 /* 71613-sprinkles.json in Resources */,
 				C230B80426C0291A00897793 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
