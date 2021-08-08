@@ -11,3 +11,5 @@
 ### pod install
 ##  xcode 열기
 ### xcode 종료 후 xcworkspace를 연다.
+### Pods가 추가됙 ViewController.swift에서 Lottie를 import 할 수 있게 된다.
+<img width="1012" alt="스크린샷 2021-08-09 오전 12 09 21" src="https://user-images.githubusercontent.com/87226868/128636978-6a3751f9-aa64-40b6-bd97-9fa0727f982b.png">
