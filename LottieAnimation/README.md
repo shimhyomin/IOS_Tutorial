@@ -1,4 +1,7 @@
 # Lottie Animation
+
+https://user-images.githubusercontent.com/87226868/128638125-6eb39e78-7f6c-4ce2-b1cd-3164cbdb0bef.mov
+
 ## [참고]
 ### https://github.com/airbnb/lottie-ios.git
 ### https://cocoapods.org
